@@ -1,8 +1,10 @@
 
-namespace :ppppppppppppppppppppppppppppppppppppppppatrol do
+puts "patrol tasks"
+
+namespace :ppatrol do
 
   desc "Launch the patrol"
-  task :go => :environment do
+  task :gooooooooooooooooooooooo => :environment do
     log = Logger.new("/tmp/patrol.log")
     output = ""
     timestamp = Time.now.strftime("%Y-%m-%d %H:%M")

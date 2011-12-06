@@ -1,4 +1,4 @@
 # Include hook code here
-puts "in the rials patrol rakefile"
+puts "in init"
 require "patrol"
 
