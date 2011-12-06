@@ -25,6 +25,8 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/patrol.rb",
+    "lib/tasks/patrol.rake",
+    "patrol.gemspec",
     "test/helper.rb",
     "test/test_patrol.rb"
   ]
