@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "patrol"
   gem.homepage = "http://github.com/bcaccinolo/patrol"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{patrol through your DB to ckeck data correctness}
+  gem.description = %Q{patrol through your DB to ckeck data correctness}
   gem.email = "benoit.caccinolo@gmail.com"
   gem.authors = ["Caccinolo Benoit"]
   # dependencies defined in Gemfile
