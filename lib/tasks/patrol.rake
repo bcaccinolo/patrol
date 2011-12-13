@@ -19,6 +19,7 @@ namespace :ppatrol do
       output << "\n"
     end
 
+    puts output
     log.info(output)
 
     PatrolMailer.report(output).deliver

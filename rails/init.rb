@@ -1,4 +1,4 @@
 # Include hook code here
-puts "in init"
+puts ">>>>>>>>>>>>>>> in init"
 require "patrol"
 
