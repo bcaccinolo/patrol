@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "patrol"
-  s.version = "0.2.0"
+  s.version = "0.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Caccinolo Benoit"]
-  s.date = "2011-12-13"
+  s.date = "2013-07-05"
   s.description = "patrol through your DB to ckeck data correctness"
   s.email = "benoit.caccinolo@gmail.com"
   s.extra_rdoc_files = [
@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/patrol.rb",
     "lib/patrol/railtie.rb",
+    "lib/patrol/tasks.rb",
     "lib/patrol_mailer.rb",
     "lib/smtp_api_header.rb",
     "lib/tasks/patrol.rake",
@@ -37,7 +38,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/bcaccinolo/patrol"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.10"
+  s.rubygems_version = "1.8.25"
   s.summary = "patrol through your DB to ckeck data correctness"
 
   if s.respond_to? :specification_version then
