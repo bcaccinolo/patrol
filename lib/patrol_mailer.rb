@@ -20,4 +20,3 @@ class PatrolMailer < ActionMailer::Base
   end
 
 end
-
