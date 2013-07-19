@@ -25,6 +25,3 @@ namespace :patrol do
   end
 
 end
-
-
-
