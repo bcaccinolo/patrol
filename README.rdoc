@@ -1,4 +1,4 @@
-= patrol
+= Patrol
 
 Patrol is a simple data report generator. Based on a set of queries, Patrol launch these queries and send the result through emails.
 
