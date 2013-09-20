@@ -6,3 +6,8 @@ Patrol is a simple data report generator. Based on a set of queries, Patrol laun
 * receive a report about amount failed orders
 * receive a report about users without user description
 * receive a report about failed order transactions
+
+= Getting started
+```ruby
+gem 'devise'
+```
