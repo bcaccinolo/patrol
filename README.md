@@ -20,3 +20,7 @@ here
 rake patrol:go
 ```
 
+# Todo
+- rescue no config file found. Add a nice message saying the config file is not created and create the file automatically
+
+
