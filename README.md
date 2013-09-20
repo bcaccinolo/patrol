@@ -22,5 +22,6 @@ rake patrol:go
 
 # Todo
 - rescue no config file found. Add a nice message saying the config file is not created and create the file automatically
-
+- the default config file should contain a default 
+- add a comment in readme: how to set up patrol to run regularly
 
