@@ -11,3 +11,9 @@ Patrol is a simple data report generator. Based on a set of queries, Patrol laun
 ```ruby
 gem 'patrol'
 ```
+
+# Launch
+```ruby
+rake patrol:go
+```
+
